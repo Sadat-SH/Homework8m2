@@ -45,3 +45,4 @@ print(f"\nНовые данные: {dog.get_name()} ({dog.get_age()} лет), {c
 
 
 
+
