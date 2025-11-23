@@ -1,13 +1,5 @@
-__pycache__/
-*.py[cod]
-*$py.class
-
-venv/
-.env/
-
-.vscode/
-
-.DS_Store
+*.db
 
 *.log
-*.sqlite3
+
+.vscode/

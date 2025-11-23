@@ -88,7 +88,7 @@ class Circle(Shape):
         return math.pi * (self.radius ** 2)
 
 
-if name == "__main__":
+if __name__ == "__main__":
     p = Person()
     p.set_age(25)
     print("Person age:", p.get_age()) 
